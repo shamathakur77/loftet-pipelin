@@ -1,0 +1,361 @@
+{
+  "meta": {
+    "fetched_utc": "2026-08-10T09:38:53+00:00",
+    "source": "Källa: Väntetider i vården (SKR) via Kolada",
+    "promise": "Enligt vårdgarantin ska du få din första kontakt med specialiserad vård inom 90 dagar. Det är lag."
+  },
+  "regions": [
+    {
+      "region_id": "0000",
+      "region": "Riket",
+      "forsta_kontakt": {
+        "year": 2025,
+        "andel_inom_90": null,
+        "uncertain": true,
+        "gap_text": null
+      },
+      "operation_atgard": {
+        "year": 2025,
+        "andel_inom_90": null,
+        "uncertain": true,
+        "gap_text": null
+      }
+    },
+    {
+      "region_id": "0001",
+      "region": "Region Stockholm",
+      "forsta_kontakt": {
+        "year": 2025,
+        "andel_inom_90": 87.359545,
+        "uncertain": false,
+        "gap_text": "1 av 10 väntade längre än lagen lovar."
+      },
+      "operation_atgard": {
+        "year": 2025,
+        "andel_inom_90": 79.533414,
+        "uncertain": false,
+        "gap_text": "2 av 10 väntade längre än lagen lovar."
+      }
+    },
+    {
+      "region_id": "0003",
+      "region": "Region Uppsala",
+      "forsta_kontakt": {
+        "year": 2025,
+        "andel_inom_90": 71.245788,
+        "uncertain": false,
+        "gap_text": "3 av 10 väntade längre än lagen lovar."
+      },
+      "operation_atgard": {
+        "year": 2025,
+        "andel_inom_90": 57.680711,
+        "uncertain": false,
+        "gap_text": "4 av 10 väntade längre än lagen lovar."
+      }
+    },
+    {
+      "region_id": "0004",
+      "region": "Region Sörmland",
+      "forsta_kontakt": {
+        "year": 2025,
+        "andel_inom_90": null,
+        "uncertain": true,
+        "gap_text": null
+      },
+      "operation_atgard": {
+        "year": 2025,
+        "andel_inom_90": null,
+        "uncertain": true,
+        "gap_text": null
+      }
+    },
+    {
+      "region_id": "0005",
+      "region": "Region Östergötland",
+      "forsta_kontakt": {
+        "year": 2025,
+        "andel_inom_90": 61.651798,
+        "uncertain": false,
+        "gap_text": "4 av 10 väntade längre än lagen lovar."
+      },
+      "operation_atgard": {
+        "year": 2025,
+        "andel_inom_90": 48.67475,
+        "uncertain": false,
+        "gap_text": "5 av 10 väntade längre än lagen lovar."
+      }
+    },
+    {
+      "region_id": "0006",
+      "region": "Region Jönköpings län",
+      "forsta_kontakt": {
+        "year": 2025,
+        "andel_inom_90": 90.764798,
+        "uncertain": false,
+        "gap_text": "1 av 10 väntade längre än lagen lovar."
+      },
+      "operation_atgard": {
+        "year": 2025,
+        "andel_inom_90": 90.409177,
+        "uncertain": false,
+        "gap_text": "1 av 10 väntade längre än lagen lovar."
+      }
+    },
+    {
+      "region_id": "0007",
+      "region": "Region Kronoberg",
+      "forsta_kontakt": {
+        "year": 2025,
+        "andel_inom_90": 75.315971,
+        "uncertain": false,
+        "gap_text": "2 av 10 väntade längre än lagen lovar."
+      },
+      "operation_atgard": {
+        "year": 2025,
+        "andel_inom_90": 82.170404,
+        "uncertain": false,
+        "gap_text": "2 av 10 väntade längre än lagen lovar."
+      }
+    },
+    {
+      "region_id": "0008",
+      "region": "Region Kalmar",
+      "forsta_kontakt": {
+        "year": 2025,
+        "andel_inom_90": 82.402128,
+        "uncertain": false,
+        "gap_text": "2 av 10 väntade längre än lagen lovar."
+      },
+      "operation_atgard": {
+        "year": 2025,
+        "andel_inom_90": 71.690195,
+        "uncertain": false,
+        "gap_text": "3 av 10 väntade längre än lagen lovar."
+      }
+    },
+    {
+      "region_id": "0009",
+      "region": "Region Gotland",
+      "forsta_kontakt": {
+        "year": 2025,
+        "andel_inom_90": 64.813218,
+        "uncertain": false,
+        "gap_text": "4 av 10 väntade längre än lagen lovar."
+      },
+      "operation_atgard": {
+        "year": 2025,
+        "andel_inom_90": 86.149003,
+        "uncertain": false,
+        "gap_text": "1 av 10 väntade längre än lagen lovar."
+      }
+    },
+    {
+      "region_id": "0010",
+      "region": "Region Blekinge",
+      "forsta_kontakt": {
+        "year": 2025,
+        "andel_inom_90": null,
+        "uncertain": true,
+        "gap_text": null
+      },
+      "operation_atgard": {
+        "year": 2025,
+        "andel_inom_90": null,
+        "uncertain": true,
+        "gap_text": null
+      }
+    },
+    {
+      "region_id": "0012",
+      "region": "Region Skåne",
+      "forsta_kontakt": {
+        "year": 2025,
+        "andel_inom_90": 69.388777,
+        "uncertain": false,
+        "gap_text": "3 av 10 väntade längre än lagen lovar."
+      },
+      "operation_atgard": {
+        "year": 2025,
+        "andel_inom_90": 56.574282,
+        "uncertain": false,
+        "gap_text": "4 av 10 väntade längre än lagen lovar."
+      }
+    },
+    {
+      "region_id": "0013",
+      "region": "Region Halland",
+      "forsta_kontakt": {
+        "year": 2025,
+        "andel_inom_90": null,
+        "uncertain": true,
+        "gap_text": null
+      },
+      "operation_atgard": {
+        "year": 2025,
+        "andel_inom_90": null,
+        "uncertain": true,
+        "gap_text": null
+      }
+    },
+    {
+      "region_id": "0014",
+      "region": "Västra Götalandsregionen",
+      "forsta_kontakt": {
+        "year": 2025,
+        "andel_inom_90": 146.059499,
+        "uncertain": false,
+        "gap_text": "Färre än 1 av 10 väntade längre än lagen lovar."
+      },
+      "operation_atgard": {
+        "year": 2025,
+        "andel_inom_90": 70.695533,
+        "uncertain": false,
+        "gap_text": "3 av 10 väntade längre än lagen lovar."
+      }
+    },
+    {
+      "region_id": "0017",
+      "region": "Region Värmland",
+      "forsta_kontakt": {
+        "year": 2025,
+        "andel_inom_90": 60.415207,
+        "uncertain": false,
+        "gap_text": "4 av 10 väntade längre än lagen lovar."
+      },
+      "operation_atgard": {
+        "year": 2025,
+        "andel_inom_90": 48.115143,
+        "uncertain": false,
+        "gap_text": "5 av 10 väntade längre än lagen lovar."
+      }
+    },
+    {
+      "region_id": "0018",
+      "region": "Region Örebro län",
+      "forsta_kontakt": {
+        "year": 2025,
+        "andel_inom_90": null,
+        "uncertain": true,
+        "gap_text": null
+      },
+      "operation_atgard": {
+        "year": 2025,
+        "andel_inom_90": null,
+        "uncertain": true,
+        "gap_text": null
+      }
+    },
+    {
+      "region_id": "0019",
+      "region": "Region Västmanland",
+      "forsta_kontakt": {
+        "year": 2025,
+        "andel_inom_90": 75.646696,
+        "uncertain": false,
+        "gap_text": "2 av 10 väntade längre än lagen lovar."
+      },
+      "operation_atgard": {
+        "year": 2025,
+        "andel_inom_90": 67.5,
+        "uncertain": false,
+        "gap_text": "3 av 10 väntade längre än lagen lovar."
+      }
+    },
+    {
+      "region_id": "0020",
+      "region": "Region Dalarna",
+      "forsta_kontakt": {
+        "year": 2025,
+        "andel_inom_90": null,
+        "uncertain": true,
+        "gap_text": null
+      },
+      "operation_atgard": {
+        "year": 2025,
+        "andel_inom_90": null,
+        "uncertain": true,
+        "gap_text": null
+      }
+    },
+    {
+      "region_id": "0021",
+      "region": "Region Gävleborg",
+      "forsta_kontakt": {
+        "year": 2025,
+        "andel_inom_90": null,
+        "uncertain": true,
+        "gap_text": null
+      },
+      "operation_atgard": {
+        "year": 2025,
+        "andel_inom_90": null,
+        "uncertain": true,
+        "gap_text": null
+      }
+    },
+    {
+      "region_id": "0022",
+      "region": "Region Västernorrland",
+      "forsta_kontakt": {
+        "year": 2025,
+        "andel_inom_90": null,
+        "uncertain": true,
+        "gap_text": null
+      },
+      "operation_atgard": {
+        "year": 2025,
+        "andel_inom_90": null,
+        "uncertain": true,
+        "gap_text": null
+      }
+    },
+    {
+      "region_id": "0023",
+      "region": "Region Jämtland Härjedalen",
+      "forsta_kontakt": {
+        "year": 2025,
+        "andel_inom_90": 57.012083,
+        "uncertain": false,
+        "gap_text": "4 av 10 väntade längre än lagen lovar."
+      },
+      "operation_atgard": {
+        "year": 2025,
+        "andel_inom_90": 44.808184,
+        "uncertain": false,
+        "gap_text": "6 av 10 väntade längre än lagen lovar."
+      }
+    },
+    {
+      "region_id": "0024",
+      "region": "Region Västerbotten",
+      "forsta_kontakt": {
+        "year": 2025,
+        "andel_inom_90": null,
+        "uncertain": true,
+        "gap_text": null
+      },
+      "operation_atgard": {
+        "year": 2025,
+        "andel_inom_90": null,
+        "uncertain": true,
+        "gap_text": null
+      }
+    },
+    {
+      "region_id": "0025",
+      "region": "Region Norrbotten",
+      "forsta_kontakt": {
+        "year": 2025,
+        "andel_inom_90": null,
+        "uncertain": true,
+        "gap_text": null
+      },
+      "operation_atgard": {
+        "year": 2025,
+        "andel_inom_90": null,
+        "uncertain": true,
+        "gap_text": null
+      }
+    }
+  ]
+}

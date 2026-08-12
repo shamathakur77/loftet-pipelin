@@ -1,23 +1,23 @@
 {
   "meta": {
-    "fetched_utc": "2026-08-11T06:07:40+00:00",
+    "fetched_utc": "2026-08-12T06:46:23+00:00",
     "source": "Källa: Väntetider i vården (SKR) via Kolada",
     "promise": "Enligt vårdgarantin ska du få din första kontakt med specialiserad vård inom 90 dagar. Det är lag."
   },
   "card": {
-    "region_id": "0004",
-    "region": "Region Sörmland",
+    "region_id": "0005",
+    "region": "Region Östergötland",
     "forsta_kontakt": {
       "year": 2025,
-      "andel_inom_90": null,
-      "uncertain": true,
-      "gap_text": null
+      "andel_inom_90": 60.0689,
+      "uncertain": false,
+      "gap_text": "4 av 10 väntade längre än lagen lovar."
     },
     "operation_atgard": {
       "year": 2025,
-      "andel_inom_90": 72.43579,
+      "andel_inom_90": 47.264829,
       "uncertain": false,
-      "gap_text": "3 av 10 väntade längre än lagen lovar."
+      "gap_text": "5 av 10 väntade längre än lagen lovar."
     }
   }
 }
